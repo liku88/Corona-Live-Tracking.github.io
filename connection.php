@@ -1,6 +1,6 @@
 <?php
 $username = 'root';
-$password = 'Likumama@88';
+$password = '';
 $server = 'localhost';
 $db = 'coronawebsite';
 

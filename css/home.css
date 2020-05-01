@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    height: 100vh;
+}
+body { 
+    padding-top: 70px; 
+     width: 100%;
+    height: 100vh;
+    background: url(../images/image2.jpg);
+    background-size: 100% 100%;
+    
+    
+}
+.navbar-inverse .navbar-brand{
+    color: chartreuse;
+   
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: chartreuse;
+    display: inline-block;
+    text-align: center;
+}
+.container{
+    color: snow;
+} 
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+    margin-left: 20px;
+}
+.navbar-inverse .navbar-nav>li{
+    margin-right: 20px
+}
+.mycus1{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.mygridcus2{
+/*    border: 2px solid white;*/
+    width: auto;
+    height: auto; 
+    font-size: 34px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 19px;
+    color: hotpink;
+    
+    
+
+
+}
+.spancorona{
+    color: aqua;
+}
+.live{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.headingcus{
+   
+    
+    font-size: 28px;
+    color: aqua;
+  
+}
+.trcenter{
+    text-align: center;
+    
+}
+.th-center{
+    text-align: center;
+}
+.aboutsection{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.headingcus1{
+   
+    
+    font-size: 28px;
+    color: chartreuse;
+  
+}
+.aboutpara{
+    color: orangered;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 100px;
+}
+.spanpara{
+    color: aqua;
+}
+.symptoms{
+    text-align: center;
+    margin-bottom: 55px;
+  
+}
+
+.symla{
+    font-size: 20px;
+    color: orangered;
+}
+.symla2{
+    font-size: 20px;
+    color: snow;
+}
+.symla3{
+    font-size: 20px;
+    color: darkgreen;
+}
+.firstcol{
+    margin-bottom: 35px;
+}
+.imgcusi{
+    background-color: white;
+}
+.tri1{
+    color: orangered;
+}
+.tri2{
+    color: snow;
+}
+.tri3{
+    color: darkgreen;
+}
+.headingcusme{
+    text-align: center;
+}
+.mangal{
+    height: 250px;
+}
+.headermangal{
+    text-align: center;
+}
+.contactus{
+    text-align: center;
+    margin-bottom: 55px;
+  
+}
+.con{
+    color: aqua;
+}
+.footer{
+    text-align: center;
+    margin-bottom: 12px;
+}

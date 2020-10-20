@@ -39,7 +39,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       
-
+	/*navigation bar*/
       <ul class="nav navbar-nav navbar-right">
        <li><a href="#home">HOME</a></li>
         <li><a href="#live">LIVE UPDATE</a></li>
@@ -69,7 +69,7 @@
       <div class="page-header">
      <h3 class="headingcus"><span class="tri1">CORONA</span>  <span class="tri2">LIVE</span> <span class="tri3"> UPDATES</span></h3>
       </div>
-    
+    /*table added*/
         <div class="table-responsive">
             <table class="table table-bordered" id="tableid">
              <th class="th-center">Country</th>
